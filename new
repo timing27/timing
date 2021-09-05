@@ -1,0 +1,4 @@
+new
+(
+print(hello world)
+)
